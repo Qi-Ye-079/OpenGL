@@ -1,0 +1,8 @@
+
+# Ignore .vs folder
+
+/.vs/
+/Debug/
+/x64/
+/OpenGL/Debug/
+/OpenGL/x64/
